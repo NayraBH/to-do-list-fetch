@@ -1,0 +1,11 @@
+.urgent {
+    background-color: #dc3c45;
+}
+
+.important {
+    background-color: #f8c133;
+}
+
+.normal {
+    background-color: #f4f4f4;
+}
